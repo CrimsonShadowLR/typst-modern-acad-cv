@@ -137,3 +137,49 @@ lang:
     pubstate-inpress: impresso
     pubstate-prepub: pré-publicação
     date-format: "[day]/[month]/[year]"
+  es:
+    subtitle: CV Breve
+    education: Formación académica
+    work: Experiencia profesional académica (selección)
+    grants: Becas y premios
+    pubs: Publicaciones
+    pubs-note: 'C: Autor correspondiente'
+    pubs-peer: Artículos revisados por pares
+    pubs-edited: Contribuciones en libros editados
+    pubs-book: Libros
+    pubs-reports: Informes (técnicos) y materiales de enseñanza
+    pubs-upcoming: Publicaciones planificadas
+    confs: Conferencias y charlas invitadas
+    confs-conf: Conferencias
+    exp-confs: "P: artículo/presentación, C: moderador"
+    confs-talks: Charlas invitadas
+    committee: Trabajo en comités y funciones voluntarias (selección)
+    teaching: Experiencia docente (Universidad Justus-Liebig de Giessen)
+    teaching-thesis: Tesis supervisadas
+    teaching-courses: Enseñanza (selección)
+    training: Formación adicional (selección)
+    training-methods: Métodos
+    training-didactics: Didáctica
+    tab-course: Curso
+    tab-study: Programa de estudios
+    tab-year: Semestre
+    tab-note: "Idioma del curso: (de) alemán, (en) inglés"
+    table-summer: "Verano"
+    table-winter: "Invierno"
+    others: Otras competencias
+    skills-computer: Lenguajes de programación
+    skills-programs: Software
+    skills-languages: Idiomas
+    skills-tab-skills: Habilidad
+    skills-tab-level: Nivel
+    skills-tab-comment: Comentario
+    skills-leg1: conocimientos básicos
+    skills-leg2: conocimientos intermedios
+    skills-leg3: conocimientos amplios
+    skills-leg4: conocimientos expertos
+    pubstate-inpreparation: en preparación
+    pubstate-submitted: enviado
+    pubstate-forthcoming: próximamente
+    pubstate-inpress: en prensa
+    pubstate-prepub: preimpresión
+    date-format: "[day] de [month repr:long] de [year]"

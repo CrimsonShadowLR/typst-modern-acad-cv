@@ -103,6 +103,12 @@ lang:
     work: Academic work experience (selection)
     grants: Scholarships & awards
     ...
+  es:
+    subtitle: CV Breve
+    education: Formación académica
+    work: Experiencia profesional académica (selección)
+    grants: Becas y premios
+    ...
   pt:
     subtitle: Currículo
     education: Formação acadêmica

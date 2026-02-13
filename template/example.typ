@@ -92,6 +92,8 @@
   #cv-three-items[Bachelor][7][Master][5][Teacher program][8]
 ] else if language == "pt" [
   #cv-three-items[Graduação][7][Pós-Graduação][5][Licenciatura][8]
+] else if language == "es" [
+  #cv-three-items[Licenciatura][7][Máster][5][Formación docente][8]
 ] else [
   #cv-three-items[Bachelor][7][Master][5][Teacher program][8]
 ]
